@@ -1,9 +1,9 @@
 
 var roomConfig = {
-  roomName : "🎮👾2V2 POWERgaming👾🎮",
-  playerName : "-ADMIN-",
+  roomName : "🎮👾2V2 POWER dla PRZEGRYWA👾🎮",
+  playerName : "flat earth",
   maxPlayers : 12,
-  public : false,
+  public : true,
   geo : {
     code: 'pl',
     lat: 52.234982,
